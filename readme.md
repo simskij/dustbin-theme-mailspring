@@ -1,6 +1,6 @@
 <div align="center">
 
-![screenshot](./screenshot/custom-theme.png)
+![screenshot](./screenshot/screenshot.png)
 
 ## Dustbin Theme for Mailspring
 
