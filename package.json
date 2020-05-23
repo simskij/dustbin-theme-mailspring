@@ -1,0 +1,12 @@
+{
+  "name": "ui-dustbin",
+  "displayName": "Dustbin",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "Dustbin theme for Mailspring",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  },
+  "private": true
+}
