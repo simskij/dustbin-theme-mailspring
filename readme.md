@@ -1,7 +1,8 @@
 <div align="center">
 
+## Dustbin Theme for Mailspring
+
 ![screenshot](./screenshot/screenshot.png)
 
-## Dustbin Theme for Mailspring
 
 </div>
